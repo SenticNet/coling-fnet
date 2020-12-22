@@ -1,3 +1,5 @@
+code for sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf
+
 # run the two demo.sh under src for getting the results with prototype and hierarichal label embeddings
 
 
